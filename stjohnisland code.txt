@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Go on an Adventure in St John's Island </title>
+<style>
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+</style>
+</head>
+
+<body>
+<h1 style="text-align:center;"> Fun Adventures on St John's Island </h1>
+<br>
+<h4 style="text-align:center;"> Fun ideas for dates with your significant other or adventures with family and friends </h4>
+<img src="stjohnisland.jpg" alt="st john island opening" style="width:780px;height:520px;">
+
+</body>
+</html>
